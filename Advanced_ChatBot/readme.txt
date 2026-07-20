@@ -1,8 +1,4 @@
-Mistral:
-API_KEY = pw44cu6BFRLOBCOqt3rPS9ZEm3CUeTEQ
 
-Tavily: (Search Engine)
-API_KEY = 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
 
 Requirements: 
 
