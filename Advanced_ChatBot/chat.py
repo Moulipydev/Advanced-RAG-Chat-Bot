@@ -2,7 +2,7 @@ from langchain.chains import RetrievalQA
 from langchain_mistralai.chat_models import ChatMistralAI
 
 # Load Mistral API key from .env
-api_key = "pw44cu6BFRLOBCOqt3rPS9ZEm3CUeTEQ"
+api_key = "<your API KEY>"
 
 # Setup Mistral Client + LLM
 mistral_llm = ChatMistralAI(
